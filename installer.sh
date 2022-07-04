@@ -36,7 +36,7 @@ read -p "For Cancelling the Installation, close this window. But if yes, press [
 
 clear
 
-sudo apt-get update && sudo apt-get install kde-full -y
+sudo apt-get update && sudo apt-get install kde-standard -y
 
 clear
 echo "      ##########################      "
