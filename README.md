@@ -1,4 +1,4 @@
-This little installer installs the full kde Plasma eniviorment.
+This little installer installs the standard kde Plasma eniviorment.
 
 this programm is for PCs with apt package manager (like: ubuntu, linux mint, debian, raspbian, etc).
 
