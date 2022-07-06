@@ -20,7 +20,7 @@ echo "      # |_|\_\ |____/  |_____| #      "
 echo "      #                        #      "
 echo "      ##########################      "
 
-read -p "We need to install kde to order to work."
+read -p "We need to install the standard kde plasma to order to work."
 
 clear
 echo "      ##########################      "
